@@ -1,5 +1,6 @@
 from pet import Pet
 
+
 def main():
     # Create a new pet
     my_pet = Pet("Bosko")
